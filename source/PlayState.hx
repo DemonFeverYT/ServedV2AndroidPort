@@ -1105,7 +1105,7 @@ class PlayState extends MusicBeatState
 		add(botplayTxt);
 
 		creditTxt = new FlxText(876, 648, 348);
-    creditTxt.text = "Ported By DemonFeverツ";
+    creditTxt.text = "Ported By DemonFever";
     creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
     creditTxt.scrollFactor.set();
     add(creditTxt);
